@@ -35,7 +35,7 @@ CTA padrão: "o que o seu negócio copia disso amanhã?" Apurar fatos em fonte c
 | 14 | Magalu e a Lu: por que dar rosto à marca aproxima | Lição de personificação | Atemporal | A fazer |
 | 15 | Stanley: como um copo virou objeto de desejo | Lição de comunidade e desejo | Atemporal | A fazer |
 | 16 | Liquid Death: água em lata e a força de um posicionamento ousado | Lição de diferenciação | Atemporal | A fazer |
-| 17 | O que o 11/11 ensinou sobre Black Friday: 3 jogadas do varejo que cabem em negócio pequeno | Traduzir o que os grandes fizeram para o pequeno | Até 20/11/2026 | A fazer |
+| 17 | O que o 11/11 ensinou sobre Black Friday: 3 jogadas do varejo que cabem em negócio pequeno | Traduzir o que os grandes fizeram para o pequeno | Até 20/11/2026 | Feito |
 
 ## Mito ou verdade (post único, série semanal)
 
@@ -94,7 +94,7 @@ Sempre rotular o que foi gerado por IA; sem tom de desprezo à tecnologia.
 
 | Nº | Título | Formato | Gancho | CTA | Prazo | Status |
 |---|---|---|---|---|---|---|
-| 47 | 11/11 ao vivo: o que roubar para a sua Black Friday (sem orçamento de gigante) | Sequência de Stories | Três mecânicas dos grandes varejistas (compra em grupo, maratona de lives, cupom progressivo), cada uma com versão de baixo custo | Enquete "seu negócio vai entrar na Black Friday?" | Só em 11/11/2026 | A fazer |
+| 47 | 11/11 ao vivo: o que roubar para a sua Black Friday (sem orçamento de gigante) | Sequência de Stories | Três mecânicas dos grandes varejistas (compra em grupo, maratona de lives, cupom progressivo), cada uma com versão de baixo custo | Enquete "seu negócio vai entrar na Black Friday?" | Só em 11/11/2026 | Feito |
 | 48 | Black Friday sem desconto: 3 formas de participar sem queimar preço | Carrossel | "Você não precisa baixar o preço para entrar na Black Friday" | Salvar | Até 26/11/2026 | A fazer |
 | 49 | Retrospectiva: 5 aprendizados de marketing de 2026 | Carrossel | Aprendizados de mercado, um por slide; não inventar fatos sobre a própria The Hands | "Qual foi o seu maior aprendizado do ano?" | De 01/12 a 31/12/2026 (não produzir antes de 25/11) | A fazer |
 | 50 | Planejamento 2027: por onde começar o marketing do ano | Carrossel | "Antes do calendário de posts, defina isto" | Salvar | De 01/12/2026 a 31/01/2027 (não produzir antes de 25/11) | A fazer |
